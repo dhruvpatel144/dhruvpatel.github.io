@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dhruv Patel"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: papers
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: project.qmd
+        text: Projects
+
+format:
+  html:
+    theme:
+      light: [litera, styles.scss]
+      dark: [darkly, styles-dark.scss]
+    highlight-style: a11y-dark
+    mainfont: "Roboto"
+    code-copy: true
+    code-overflow: wrap
+
+
+execute:
+  freeze: auto
+  

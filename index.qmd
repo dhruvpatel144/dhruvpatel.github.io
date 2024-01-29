@@ -1,0 +1,23 @@
+---
+title: Dhruv Patel
+image: images/dhruv.jpeg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/dhruvPL
+    - icon: github
+      text: Github
+      href: https://github.com/dhruvpatel144
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dhruv-patel-5a1202213/ 
+    - icon: envelope
+      text: Email
+      href: mailto:patel.dhruv@iitgn.ac.in  
+---
+
+Applying for MS in Computer Science (Fall ’24). Dhruv Patel is a fourth year undergrad in Computer Science at IIT Gandhinagar. His current research interests include Bayesian Machine Learning and Deep Learning. He has internship experiences in Pravaig Dynamics and Axxela Research and Analytics.
