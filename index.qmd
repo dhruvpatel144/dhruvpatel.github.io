@@ -20,4 +20,4 @@ about:
       href: mailto:patel.dhruv@iitgn.ac.in  
 ---
 
-Applying for MS in Computer Science (Fall ’24). Dhruv Patel is a fourth year undergrad in Computer Science at IIT Gandhinagar. His current research interests include Bayesian Machine Learning and Deep Learning. He has internship experiences in Pravaig Dynamics and Axxela Research and Analytics.
+I am a Master’s student in Computer Science (Thesis) at Texas A&M University. I completed my B.Tech (Honors) in Computer Science from IIT Gandhinagar. My research interests include Bayesian Machine Learning and Deep Learning. I have gained industry experience through internships at Axxela Research & Analytics and Pravaig Dynamics.

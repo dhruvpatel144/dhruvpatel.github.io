@@ -2,8 +2,15 @@
 title: Publications
 ---
 
+## 2024
+
+### Benchmarking Active Learning for NILM
+
+Dhruv Patel, Ankita Kumari Jain, Haikoo Khandor, Xhitij Choudhary, Nipun Batra [[arxiv](https://arxiv.org/abs/2411.15805)]
+
+
 ## 2023
 
 #### Towards Scalable Identification of Brick Kilns from Satellite Imagery with Active Learning
 
-Aditi Agarwal\*, Suraj Jaiswal\*, Madhav Kanda\*, Dhruv Patel\*, Rishabh Mondal, Vannsh Jani, Zeel B Patel, Nipun Batra, Sarath Guttikunda. In NeurIPS 2023 RealML Workshop [[PDF](../papers/2023/NeurIPS_2023_Camera.pdf)][[Github](https://github.com/VibhutiBansal-11/NILM_Uncertainty)]
+Dhruv Patel\*, Aditi Agarwal\*, Suraj Jaiswal\*, Madhav Kanda\*, Rishabh Mondal, Vannsh Jani, Zeel B Patel, Nipun Batra, Sarath Guttikunda. In NeurIPS 2023 RealML Workshop [[PDF](../papers/2023/NeurIPS_2023_Camera.pdf)][[Github](https://github.com/VibhutiBansal-11/NILM_Uncertainty)]
