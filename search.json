@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Experience",
-    "section": "",
-    "text": "Probabilistic Machine Learning (ES661), IIT Gandhinagar,Fall 2023\nTeaching Assistant\n\nPrepared presentations and interactive notebooks to facilitate a comprehensive understanding of probabilistic machine learning principles.\n\nDrafted rigorous assignments for the course.\n\nTeaching Certification Course\n\nCompleted a course to improve my teaching skills, which enables me to be a teaching assistant.\nGained valuable insights from different instructors on effective ways to teach, present, motivate, and keep everyone interested in learning."
-  },
-  {
     "objectID": "papers/index.html",
     "href": "papers/index.html",
     "title": "Publications",
     "section": "",
-    "text": "Aditi Agarwal*, Suraj Jaiswal*, Madhav Kanda*, Dhruv Patel*, Rishabh Mondal, Vannsh Jani, Zeel B Patel, Nipun Batra, Sarath Guttikunda. In NeurIPS 2023 RealML Workshop [PDF][Github]"
+    "text": "Dhruv Patel, Ankita Kumari Jain, Haikoo Khandor, Xhitij Choudhary, Nipun Batra [arxiv]"
   },
   {
     "objectID": "papers/index.html#section",
     "href": "papers/index.html#section",
     "title": "Publications",
     "section": "",
-    "text": "Aditi Agarwal*, Suraj Jaiswal*, Madhav Kanda*, Dhruv Patel*, Rishabh Mondal, Vannsh Jani, Zeel B Patel, Nipun Batra, Sarath Guttikunda. In NeurIPS 2023 RealML Workshop [PDF][Github]"
+    "text": "Dhruv Patel, Ankita Kumari Jain, Haikoo Khandor, Xhitij Choudhary, Nipun Batra [arxiv]"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dhruv Patel",
-    "section": "",
-    "text": "Applying for MS in Computer Science (Fall ’24). Dhruv Patel is a fourth year undergrad in Computer Science at IIT Gandhinagar. His current research interests include Bayesian Machine Learning and Deep Learning. He has internship experiences in Pravaig Dynamics and Axxela Research and Analytics."
+    "objectID": "papers/index.html#section-1",
+    "href": "papers/index.html#section-1",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nTowards Scalable Identification of Brick Kilns from Satellite Imagery with Active Learning\nDhruv Patel*, Aditi Agarwal*, Suraj Jaiswal*, Madhav Kanda*, Rishabh Mondal, Vannsh Jani, Zeel B Patel, Nipun Batra, Sarath Guttikunda. In NeurIPS 2023 RealML Workshop [PDF][Github]"
   },
   {
     "objectID": "project.html",
@@ -33,5 +26,19 @@
     "title": "Selected Projects",
     "section": "",
     "text": "Towards Scalable Identification of Brick Kilns from Satellite Imagery with Active Learning \nIdentifying unlawfully built brick kilns is crucial for reducing their environmental footprint. Given the limited availability of Indian brick kiln data, we utilized transfer learning by refining models initially developed for Bangladesh data. The process of labeling brick kilns is laborious; hence, we leveraged active learning to annotate data points where the model demonstrated the greatest uncertainty. Using the refined model, we pinpointed more than 700 brick kilns in the Indo-Gangetic region, and we are extending this methodology to other areas across India.\n[Active NILM]\nIn the energy disaggregation domain, the scarcity of labeled data poses a significant challenge, primarily due to the need for appliance-specific sensors, which not only escalates costs but also raises privacy concerns during data collection. To tackle this issue, we employed an active learning strategy and drew upon the Pecan Street Dataport dataset, comprising 25 households in Austin, Texas, for our experimental framework. We achieved comparable performance to the existing works on energy disaggregation while utilizing just 65% of the available data. Various acquisition functions—including entropy, mutual information, rank-based sampling, and round-robin—were used in quantifying uncertainty throughout the process.\n[Data Agnostic Blind Image Restoration]\nContemporary deep learning techniques often falter when tasked with deblurring images outside the scope of their training dataset. Our aim is to pioneer a method adept at effectively deblurring a wide variety of image types. To achieve this, we embarked on an empirical exploration of diverse image restoration techniques. Through the integration of these methodologies, we developed Generative Adversarial Networks (GANs) and tailored state-of-the-art methods to evaluate their versatility across multiple datasets. Currently, our focus is on the development of a novel CLIP-based StyleGAN approach.\n[Compiler]\nA Compiler built from scratch with Python, incorporating advanced techniques for lexical analysis, parsing, static type checking, optimization, and a user-friendly interface. Incorporated advanced features such as error handling and also introduced user defined variable types for incorporating different possibilities of writing programs.\n[Food Delivery WebApp]\nWe developed a web-based application dedicated to food delivery, utilizing Django and MySQL from the ground up. The application offers users the ability to either log in or sign up as customers, restaurants, or delivery agents. For customer convenience, it supports searches based on cuisine type, dishes, and restaurants, enhancing the overall user experience."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dhruv Patel",
+    "section": "",
+    "text": "I am a Master’s student in Computer Science (Thesis) at Texas A&M University. I completed my B.Tech (Honors) in Computer Science from IIT Gandhinagar. My research interests include Bayesian Machine Learning and Deep Learning. I have gained industry experience through internships at Axxela Research & Analytics and Pravaig Dynamics."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Grader, Texas A&M University , Fall 2024\n\nAutomated the grading process for peer-reviewed assignments and projects by developing custom scripts.\n\nTeaching Assistant, IIT Gandhinagar, Fall 2023\n\nPrepared presentations and interactive notebooks to facilitate a comprehensive understanding of probabilistic machine learning principles.\n\nDrafted rigorous assignments for the course.\n\nTeaching Certification Course\n\nCompleted a course to improve my teaching skills, which enables me to be a teaching assistant.\nGained valuable insights from different instructors on effective ways to teach, present, motivate, and keep everyone interested in learning."
   }
 ]
